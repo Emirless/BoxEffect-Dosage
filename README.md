@@ -46,7 +46,7 @@
 
 <h2 align="">Açıklama:</h2>
 
-Üstte de dediğim gibi, BoxEffect Dosage projesi iki serilik analiz projesinin ilk versiyonudur. Ana amacı hasta davranışlarını analiz etmek değildir, biraz daha klinik odaklı bir yaklaşım izler. Bu sayede veri setinde bulunan 1000 adet ilacın yani hastanın hastalıkları, gözlemlenen yan etkileri, kullanılan ilaç / etken madde ve doz miktarı gibi konuları ele alarak öğrenmiş oluruz.
+Üstte de dediğim gibi, BoxEffect Dosage Ana amacı hasta davranışlarını analiz etmek değildir, biraz daha klinik odaklı bir yaklaşım izler. Bu sayede veri setinde bulunan 1000 adet ilacın yani hastanın hastalıkları, gözlemlenen yan etkileri, kullanılan ilaç / etken madde ve doz miktarı, ortalama iyileşme süresi (gün olarak) gibi konuları ele alarak öğrenmiş oluruz.
 
 Sizlerinde eğer kullandığınız ilaç / etken madde ve dozajınız bu veri setindeki veriler ile örtüşüyorsa gelecekte olacak yan etkileri önceden öğrenip ona göre önlem alabilirsiniz. Fakat buradaki verilere %100 güvenmek sağlıklı bir hareket değildir. Doktorunuza veya eczacınıza görünmekte her zaman fayda var.
 
