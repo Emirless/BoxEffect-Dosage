@@ -5,7 +5,7 @@
 <h2 align="center">BoxEffext Dosage</h2>
 
 <p align="center">
-  BoxEffect Dosage, 2 serilik bir analiz projesinin ilk verisyonudur. BoxEffect projesi kabaca ilaç sektörünü hedef alır ve ona uygun verileri analiz eder. Bu versiyondaki ana amaç, ilaç dozlarını, yan etkilerini, tedavi sürelerini, ilaç ve etken maddeleri, son olarak ise iyileşme puanını konu alır.
+  BoxEffect Dosage, kabaca ilaç sektörünü hedef alır ve ona uygun verileri analiz eder. Buradaki ana amaç, ilaç dozlarını, yan etkilerini, tedavi sürelerini, ilaç ve etken maddeleri, son olarak ise iyileşme puanını konu alır.
 </p>
 
 <p align="center">
